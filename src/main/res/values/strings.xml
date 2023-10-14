@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sumo Weight Tracker</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="add_weight">Add Weight</string>
+    <string name="accept">Accept</string>
+    <string name="allow_goal_weight_to_notify_you_of_reaching_your_goal">Allow Goal weight to notify you of reaching your goal?</string>
+    <string name="deny">Deny</string>
+</resources>
