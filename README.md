@@ -9,9 +9,9 @@ I have updated the application with more things to do and wanted to have all opt
 When updating or creating code for this project, I followed best practices by testing often and commenting on code with brevity. Using the automated testing function in Android Studio is also considered best practice, not only for code security, but productivity. Validating all data that is input (making all numerical inputs only accept numbers, all alphabetical inputs to take letters, etc.) is a best practice I also followed as a habit learned from coding. 
 ## Category II
 Files identified for Category II: Algorithm and Data Structures 
-• NotificationSMS.java
-• Activity_notificationSMS.xml
-• AndroidManifest.xml
+* NotificationSMS.java
+* Activity_notificationSMS.xml
+* AndroidManifest.xml
 	For this category I have expanded the complexity of the SumoWeightTracker application by including a web “scraping” function. I updated the “NotificationSMS.java” class to be able to reach out to the applications website and pull text information down to display in a notification window. Users can now scroll through notification texts that can include weight gaining recipes and tips on how to gain weight for the Sumo hobbyist. I had to include permissions for this update, which was completed in the AndroidManifest.xml
 	This upgrade was quite the undertaking. Reaching out to a website includes lot of includes (no pun intended) to work and permissions to be set. A note for me to keep in mind is to start planning and configuring all the permissions within the pseudocode. Permissions for apps are common, but important to know so for limitations from the beginning. 
 	Once we make the connection to the website, we need to then pull data (if there is an update to pull) so for this we are using a tool called textview. Textview is a text version of a website, a bit rudimentary but works for the functionality I am trying to incorporate into the application for now. The app now connects to a website (sumoweighttracker.com) and once their searches for textview fragments to bring update the notification activity. This took so long figuring out from stack overflow and youtube the steps needed to reach out to a website and pull data, as this is a bit of a very proprietary function it seems. Not a lot of open-source material covers this topic. 
