@@ -1,8 +1,5 @@
 # Computer Science ePortfolio
 
-
-## Overview
-
 This portfolio demonstrates the skills I have developed while studying computer sciences at SNHU. Below you can find the workflow used and how I enhanced a modern mobile application. 
 
 ### Professional Self-Assessment<br>
