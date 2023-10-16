@@ -3,7 +3,7 @@
 
 ## Overview
 
-This portfolio demonstrates the skills I have developed while studying computer sciences at SNHU. ---
+This portfolio demonstrates the skills I have developed while studying computer sciences at SNHU.
 
 ### Professional Self-Assessment<br>
 
