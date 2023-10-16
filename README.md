@@ -8,7 +8,6 @@ Completing the computer science coursework throughout this program and ePortfoli
 I selected all my artifacts to be from the same application hoping to demonstrate all skills I am capable of. Unfortunately, I do not think I would have the time in an 8-week period to demonstrate all the skills or even strengths I have gained from this program. Each file that was updated carries a considerably low amount of functionality change, the real challenge was getting all these changes to work together and show growth of the application. These updates and changes are in the context of improving past work, but I consider this now updated form to be a milestone of a working alpha version of an application ready for marketing review.
 
 ## Category I - Software Design and Engineering
-<p>
 Files identified for Category I: Software Design and Engineering
 >SumoWeightTracker application (all files)>
 >activity_login.xml>
@@ -25,7 +24,6 @@ Files identified for Category II: Algorithm and Data Structures
 	This upgrade was quite the undertaking. Reaching out to a website includes lot of includes (no pun intended) to work and permissions to be set. A note for me to keep in mind is to start planning and configuring all the permissions within the pseudocode. Permissions for apps are common, but important to know so for limitations from the beginning. 
 	Once we make the connection to the website, we need to then pull data (if there is an update to pull) so for this we are using a tool called textview. Textview is a text version of a website, a bit rudimentary but works for the functionality I am trying to incorporate into the application for now. The app now connects to a website (sumoweighttracker.com) and once their searches for textview fragments to bring update the notification activity. This took so long figuring out from stack overflow and youtube the steps needed to reach out to a website and pull data, as this is a bit of a very proprietary function it seems. Not a lot of open-source material covers this topic. 
 ## Category III - Database
-</p>
 Files identified for Category III: Database
 * Activity_database.xml
 * AndroidManifest.xml
