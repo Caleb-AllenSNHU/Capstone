@@ -11,7 +11,7 @@
 
 This portfolio demonstrates the skills I have developed while studying computer sciences at SNHU. ---
 
-### Professional Self-Assessment
+### Professional Self-Assessment<br>
 
 Professional Self-Assessment
 Completing the computer science coursework throughout this program and ePortfolio development has molded me into a more diverse employee for the field I am currently in. Right now, there is a huge knowledge gap between cyber security and application/software development. With my studies I have been able to bridge the gap on a few occasions with application vendors and the cyber security side of things to alleviate a lot of headaches and avoid deadlines. I have found feedback an invaluable tool and I am usually the only team member looking for feedback as a way of improvement with my peers. This helps me and my team members collaborate in a less stressful environment. Knowing how code is structured from the many different coding languages I learned in this journey has also helped me incorporate PowerShell scripting at work to automate a lot of things – pending customer authorization. The portions of security in the coursework were surprisingly enlightening also. As someone who has been in the security side of computer systems for more than 10 years it is refreshing to still be able to learn more about why things are the way they are sometimes with the staggering amount of security controls out there.
