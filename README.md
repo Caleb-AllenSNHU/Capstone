@@ -1,9 +1,5 @@
-Caleb Allen
-Southern New Hampshire University
-Computer Science Capstone
-10/13/23
-Enhancement Narrative
-Category I
+#Enhancement Narrative
+#Category I
 Files identified for Category I: Software Design and Engineering 
 SumoWeightTracker application (all files)
 activity_login.xml
