@@ -1,5 +1,5 @@
-## Enhancement Narrative
-***Category I - Software Design and Engineering***
+# Enhancement Narrative
+**Category I - Software Design and Engineering**
 Files identified for Category I: Software Design and Engineering
 * SumoWeightTracker application (all files)
 * activity_login.xml
