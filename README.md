@@ -12,12 +12,6 @@
 
 This portfolio demonstrates the skills I have developed while studying computer sciences at SNHU. ---
 
-<div style="text-align: center;">
-    <a href="https://arsari.github.io/ePortfolio" title="ePortfolio Home Page"><img src="https://img.shields.io/badge/Home-ePortfolio-blue.svg?style=for-the-badge&logo=homeassistant" /></a>
-</div>
-
----
-
 ### Professional Self-Assessment
 
 Professional Self-Assessment
