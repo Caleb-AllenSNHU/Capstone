@@ -1,10 +1,4 @@
-# ePortfolio
-
----
-
-## Computer Science <br>
-
----
+# Computer Science ePortfolio
 
 
 ## Overview
